@@ -1,3 +1,8 @@
+### My note
+```sh
+pip install -e .
+```
+
 # Description of math token creation for Tangent-L
 Frank Tompa, October 2021
 
